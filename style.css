@@ -67,7 +67,10 @@ input[type="text"] {
     background-color: #d4d096;
     padding: 5px 10px;
     border-radius: 15px;
+}.date:hover{
+    background-color: rgb(0, 149, 255);
 }
+
 
 .temperature-info {
     margin-top: 20px;
@@ -118,6 +121,12 @@ input[type="text"] {
     box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
 }
 
+h3:hover{
+    background-color: azure;
+}
+p:hover{
+    background-color: rgb(224, 234, 234);
+}
 .additional-info .material-icons {
     font-size: 3rem;
     opacity: 0.8;
